@@ -8,6 +8,7 @@ public:
     int age;
 
 };
+
 int main(){
     Student s1;
     s1.name="Ujjaval";
